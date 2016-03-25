@@ -21,3 +21,5 @@ I created this one specifically to explore [Vuex](https://github.com/vuejs/vuex)
 - Run the `dev` script:
 
         npm run dev
+
+- Open a web browser to `localhost:8080`
