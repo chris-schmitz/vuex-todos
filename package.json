@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server --content-base public --inline --hot"
   },
   "author": "",
   "license": "ISC",
@@ -23,7 +23,8 @@
     "vue-loader": "^8.2.1",
     "vue-style-loader": "^1.0.0",
     "vuex": "^0.6.2",
-    "webpack": "^1.12.14"
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
     "vue": "^1.0.18"
