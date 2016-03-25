@@ -10,14 +10,14 @@ I created this one specifically to explore [Vuex](https://github.com/vuejs/vuex)
 
 - Clone this repository:
 
-    cd ~/Desktop
-    git clone https://github.com/chris-schmitz/vuex-todos vuex-todos
-    cd vuex-todos
+        cd ~/Desktop
+        git clone https://github.com/chris-schmitz/vuex-todos vuex-todos
+        cd vuex-todos
 
 - Install dependencies: 
 
-    npm install
+        npm install
 
 - Run the `dev` script:
 
-    npm run dev
+        npm run dev
